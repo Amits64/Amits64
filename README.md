@@ -1,9 +1,3 @@
-<p align=”center”>
-
-<img width=”200" height=”200" src=”https://1drv.ms/i/s!Aggfs45gS9XDhdA9-gztVU-XelxZIg" alt=”my banner”>
-
-</p>
-
 <h1 align="center">Hi 👋, I'm Amit Singh</h1>
 <h3 align="center">Proficient in implementing DevOps practices, CI/CD pipelines, and automation to enhance efficiency and scalability. Demonstrates strong technical acumen and adept problem-solving skills. Committed to adding value and leveraging expertise in Cloud, Infrastructure Management, DevOps, and CI/CD to contribute to a dynamic and forward-thinking organization. Eager to utilize skills and experience to drive success in a DevOps Engineer position.</h3>
 
