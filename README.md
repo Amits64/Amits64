@@ -7,7 +7,7 @@
 
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently working on [Deployment of Node.js based project on Kubernetes environment](https://github.com/Amits64/crud-app.git)
+- 🔭 I’m currently working on [Deployment of JAVA based application on Kubernetes environment]([https://github.com/Amits64/crud-app.git](https://github.com/Amits64/crud-app.git))
 
 - 🌱 I’m currently learning **ArgoCD, Prometheus, Grafana**
 
