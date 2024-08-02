@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on [Deployment of Node.js based project on Kubernetes environment](https://github.com/Amits64/crud-app/tree/crud-app-v2)
 
+- 🔭 I’m also working on [GitOps project](https://github.com/Amits64/Terraform_repo.git)
+
 - 🌱 I’m currently learning **ArgoCD, Prometheus, Grafana**
 
 - 👯 I’m looking to collaborate on [Python based Crypto analyzer application](https://github.com/Amits64/stock-analyzer.git)
