@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **ArgoCD, Prometheus, Grafana**
 
-- 👯 I’m looking to collaborate on [Python based Crypto analyzer application](https://github.com/Amits64/stock-analyzer.git)
+- 👯 I’m looking to collaborate on [Python based Crypto analyzer app](https://github.com/Amits64/stock-analyzer.git) & [Java based Authentication app](https://github.com/Amits64/auth_app.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amits64](https://github.com/Amits64)
 
