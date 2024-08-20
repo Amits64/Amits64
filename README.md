@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+World!+👋;Welcome+to+my+GitHub+profile!;I'm+Amit+Singh+🚀;DevOps+Engineer+and+Cloud+Enthusiast&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&pause=1000&size=22" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+World!+👋;Welcome+to+my+GitHub+profile!;I'm+Amit+Singh+🚀;DevOps+Engineer,+Cloud+Enthusiast+and+CI/CD+Specialist&font=Fira%20Code&center=true&width=800&height=45&vCenter=true&pause=1000&size=22" alt="Typing SVG">
 </p>
 
 <h1 align="center">✨ Amit Singh ✨</h1>
